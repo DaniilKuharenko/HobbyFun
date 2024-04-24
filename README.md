@@ -3,10 +3,13 @@
 HobbyFun is a platform that brings together people with common interests and helps them turn their creative ideas into reality. Users can create projects related to their hobby and attract funding from other community members.
 
 # Main Features
+
 ### User Profiles
 Users can create their own profiles with information about theri hobbies, experiences and so one.
+
 ### Finding like-mined people
 The platform offers tools to find other users with similar interests.
+
 ### Blogs and Ideas
 Users can create blogs or discusion threads to share their project ideas, ask questions and get comments and feedback from other community members.
 
