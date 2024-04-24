@@ -4,4 +4,4 @@ HobbyFunding is a platform that brings together people with common interests and
 
 # Main Features
 
-## Project Creation
+### Project Creation
